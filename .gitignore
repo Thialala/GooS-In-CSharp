@@ -1,0 +1,9 @@
+*.user
+*.suo
+bin/
+obj/
+**/packages/Castle.Core.3.3.0/
+**/packages/FluentAssertions.3.3.0/
+**/packages/SpecFlow.1.9.0/
+**/packages/TestStack.White.0.13.3/
+**/packages/NUnit.2.6.4/
